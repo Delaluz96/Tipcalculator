@@ -1,0 +1,17 @@
+
+#results {
+         display:none;
+       }
+
+.container {
+		background: url("tip.jpg") no-repeat top fixed;
+		padding-bottom: 20px;
+		margin-top: 180px;
+		border-radius: 30px;
+		color: rgb(255, 100, 100);
+		}
+
+body {
+	background: url("Cash.jpg") no-repeat;
+}
+
